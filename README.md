@@ -1,1 +1,2 @@
-# Sales-of-Cars-Dashboard
+This Power BI dashboard provides a comprehensive analysis of car sales data. It offers insights into various aspects of sales performance through a combination of visualizations.
+The dashboard also allows for a deeper dive into product performance. It shows sales details by product name, quantity ordered, and profit. This helps identify top sellers and areas for improvement. Additionally, customer analysis reveals the distribution of customers by city, aiding in understanding the customer base and targeting specific regions.
